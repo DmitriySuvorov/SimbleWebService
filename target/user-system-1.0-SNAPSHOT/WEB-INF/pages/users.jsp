@@ -11,6 +11,8 @@
     <title>Title</title>
 </head>
 <body>
-    Hello) from spring))
+    <h1 align = center>Welcome page</h1>
+    <h3 align = right >Суворов Д.С.
+                        ИУ7-13М</h3>
 </body>
 </html>
